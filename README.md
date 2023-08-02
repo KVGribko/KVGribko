@@ -1,16 +1,19 @@
 ### Hi there 👋
 
+![GitHub metrics](https://metrics.lecoq.io/KVGribko) 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KVGribko&theme=monokai&rank=-S,-SS,-S&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KVGribko&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![codewars](https://www.codewars.com/users/Mr_/badges/large)](https://www.codewars.com/users/username) 
+
 <!--
-**KVGribko/KVGribko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KVGribko)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KVGribko&theme=solarized_dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mrVilbi&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+
 -->
