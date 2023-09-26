@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi there 👋 I'am python, C++ developer
 
 ![GitHub metrics](https://metrics.lecoq.io/KVGribko) 
 
