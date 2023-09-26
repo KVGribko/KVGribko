@@ -1,4 +1,4 @@
-<!--
+
 ### Hi there 👋
 
 ![GitHub metrics](https://metrics.lecoq.io/KVGribko) 
@@ -9,7 +9,7 @@
 
 [![codewars](https://www.codewars.com/users/Mr_/badges/large)](https://www.codewars.com/users/username) 
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KVGribko)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KVGribko&theme=solarized_dark)
